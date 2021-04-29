@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brondchux
+- 👋 Hi, I’m Gospel Chukwu - @Brondchux 
 - 👀 I’m interested in full stack software engineering
 - 🌱 I’m currently learning react js but well knowledged in vue js
 - 💞️ I’m looking to collaborate on JavaScript projects
