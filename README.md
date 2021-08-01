@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react js but well knowledged in vue js
 - 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 How to reach me brondchux@gmail.com
-- 🌐 My latest flagship project is https://anewitem.com/
+- 🌐 Explore projects on my portfolio https://brondchux.github.io/hw2-my-portfolio/
 
 <!---
 Brondchux/Brondchux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
