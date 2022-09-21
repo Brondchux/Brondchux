@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gospel Chukwu - @Brondchux 
 - 👀 I’m interested in full stack software engineering
-- 🌱 I’m currently learning react js but well knowledged in vue js
+- 🌱 I’m currently well knowledged in node js, vue js and react js
 - 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 How to reach me brondchux@gmail.com
 - 🌐 Explore projects on my portfolio https://brondchux.github.io/hw2-my-portfolio/
